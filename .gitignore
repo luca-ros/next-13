@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.redis.ts
 
 # vercel
 .vercel
